@@ -1,0 +1,8 @@
+amount,type,description,category
+1000.0,income,1222,Salary
+1000.0,income,this is test for businisse income,Business Income
+100.0,expense,sdf,"Debt Repayment (Loans, Credit Cards)"
+1200.0,expense,this another test for adding an expense ,Housing/Rent/Mortgage
+300.0,expense,thishhshhs,"Dining Out (Restaurants, Cafes)"
+399.0,expense,eee,"Healthcare (Medical Bills, Prescriptions)"
+11.0,expense,dfv,Housing/Rent/Mortgage
